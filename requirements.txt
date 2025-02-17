@@ -1,0 +1,4 @@
+azure-storage-file-datalake
+
+Pillow
+apache-airflow-providers-microsoft-azure
