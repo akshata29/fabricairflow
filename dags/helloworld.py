@@ -14,7 +14,7 @@ default_args = {
 
 # Instantiate the DAG object
 with DAG(
-    'dags-helloworld.py',
+    'helloworld.py',
     default_args=default_args,
     description='A simple Hello World DAG',
     schedule_interval=None,
