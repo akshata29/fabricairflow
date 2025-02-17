@@ -1,4 +1,4 @@
 azure-storage-file-datalake
-
+/opt/airflow/git/fabricairlow.git/dags/airflow_operators-0.0.0-py3-none-any.whl
 Pillow
 apache-airflow-providers-microsoft-azure
